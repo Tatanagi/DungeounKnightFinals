@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Coins
+  - SonicCoin
+  - Mushroom
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Lava
+    uniqueID: 869257803
+    locked: 0
+  - name: 'Floor Brick '
+    uniqueID: 1489296487
+    locked: 0
+  - name: Coin
+    uniqueID: 81746725
+    locked: 0
+  - name: Wall
+    uniqueID: 2886657195
+    locked: 0
+  - name: Chess
+    uniqueID: 3178402417
+    locked: 0
+  - name: Player
+    uniqueID: 955671377
+    locked: 0
+  - name: Rock
+    uniqueID: 3060802221
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
